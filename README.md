@@ -1,4 +1,4 @@
-## Hi there, welcome to Koyah world of web3 in the EVM, SVM, cosmos and move ecosystems.
+## Hi there, welcome to Koyah world of web3 in the EVM, SVM, cosmos and move ecosystems.⌨️
 
 <!--
 **koyaness/koyaness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
