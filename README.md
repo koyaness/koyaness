@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, welcome to Koyah world of web3
 
 <!--
 **koyaness/koyaness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
